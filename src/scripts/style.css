@@ -1,0 +1,82 @@
+body {
+    font-family: "nimbus-sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: 2px;
+    line-height: 12px;
+    text-align: center;
+
+}
+
+#hero-svg {
+    width: 30vw;
+}
+
+.cls-1 {
+    stroke: #000;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+}
+
+.about-2 {
+    margin: 20vh 0 0 30vw;
+    width: 20vw;
+}
+
+.weakness-cover {
+    margin: 30vh 0 0 50vw;
+    width: 20vw;
+}
+
+.weakness-blurb {
+    right: -20vw;
+    top: 20vh;
+    width: 20vw;
+}
+
+.ep-art {
+    margin: 35vh 0 0 30vh;
+    display: inline-block;
+}
+
+.ep-art img {
+    width: 20vw;
+    display: inline-block;
+}
+
+.ep-blurb {
+    top: -5vh;
+    left: 20%;
+    
+}
+
+.descriptor {
+    width: 75vw;
+    margin: 30vh 0 0 15vw;
+    letter-spacing: 0px;
+}
+
+.descriptor img {
+    width: 40%;
+    margin: 5%
+}
+
+.sxsw-cover {
+    width: 25%;
+    margin: 25vh 0 0 10vw;
+}
+
+.sxsw-blurb {
+    right: -50%;
+    width: 40%;
+    top: 50%;
+    text-align: left;
+}
+
+.relative {
+    position: relative;
+}
+
+.absolute {
+    position: absolute;
+}
