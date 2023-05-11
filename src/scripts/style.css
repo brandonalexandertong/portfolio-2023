@@ -8,14 +8,21 @@ body {
 
 }
 
-#hero-svg {
-    width: 30vw;
-}
-
 .cls-1 {
     stroke: #000;
     stroke-linecap: round;
     stroke-linejoin: round;
+}
+
+.segment {
+    width: 100%;
+}
+
+.brick {
+    position: relative;
+}
+.text {
+    position: absolute;
 }
 
 .about-2 {
@@ -25,35 +32,60 @@ body {
 
 .weakness-cover {
     margin: 30vh 0 0 50vw;
-    width: 20vw;
+    width: 35vw;
 }
 
 .weakness-blurb {
-    right: -20vw;
+    left: -22vw;
     top: 20vh;
     width: 20vw;
 }
 
-.ep-art {
-    margin: 35vh 0 0 30vh;
-    display: inline-block;
-}
 
-.ep-art img {
-    width: 20vw;
-    display: inline-block;
+.ep-art-1 {
+    width: 30vw;
+    margin: 5vh 0 0 30vh;
 }
 
 .ep-blurb {
     top: -5vh;
     left: 20%;
-    
+    margin-top: 31vh;
+    width: 35vw;
+}
+
+.ep-blurb-2 {
+    margin-top: 10vh;
+}
+
+.ep-art-2 {
+    width: 30vw;
+    margin: 20vh 0 0 46vw;
+}
+
+.impressions-blurb {
+    top: -15%;
+}
+
+.ep-art-3 {
+    width: 30vw;
+    margin: 40vh 0 0 61vw;
+}
+
+.waterfall-blurb {
+    right: 100%;
+    top: 0;
 }
 
 .descriptor {
     width: 75vw;
     margin: 30vh 0 0 15vw;
     letter-spacing: 0px;
+}
+
+.weakness-gif {
+    width: 30vw;
+    margin-top: 45vh;
 }
 
 .descriptor img {
@@ -71,12 +103,4 @@ body {
     width: 40%;
     top: 50%;
     text-align: left;
-}
-
-.relative {
-    position: relative;
-}
-
-.absolute {
-    position: absolute;
 }

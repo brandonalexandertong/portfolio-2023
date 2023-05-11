@@ -35,35 +35,57 @@ layout: layouts/base.njk
 </section>
 
 <section class="selected-work" id="weakness">
-    <div class="weakness-cover relative">
-        <img src="assets/images/WEAKNESS-ART-03.jpg">
-        <p class="weakness-blurb absolute">this is the cover art for the group Couch Print's 2023 single "Weakness"
+    <div class="segment">
+        <div class="brick weakness-cover">
+            <img src="assets/images/WEAKNESS-ART-03.jpg" class="module">
+            <p class="weakness-blurb text">this is the cover art for the group Couch Print's 2023 single "Weakness"
+            </p>
+        </div>  
+    </div>
+    <div class="ep-blurb">
+        <p>
+            these are the last 3 covers of their releases created by Colin Doerffler
         </p>
     </div>
-    <div class="ep-art relative">
-        <img src="assets/images/impressions-art.jpg">
-        <img src="assets/images/Artwork_CP-HORSEPOWER.jpg">
-        <img src="assets/images/Artwork_CP-WATERFALL-EP.jpg">
-        <p class="ep-blurb absolute">these are the last 3 covers of their releases created by Colin Doerffler
+    <div class="segment">
+        <div class="brick ep-art-1">
+            <img src="assets/images/Artwork_CP-HORSEPOWER.jpg" class="module">
+        </div>   
+    </div>
+    <div class="segment">
+        <div class="brick ep-art-2">
+            <img src="assets/images/impressions-art.jpg" class="module">
+            <p class="impressions-blurb text">due to the material references in the last 3 designs, he aimed to replicate that, by loosely following the design of a postcard & using small vertical text
+            </p>
+        </div>
+    </div>
+    <div class="ep-blurb-2">
+        <p>
+             to have a simple and structurally sound design, the composition was created on a 3x4 grid, with the line of text on the right 3rd, and the beginnings of each
+                piece of text sitting on a quadrant 
         </p>
     </div>
-    <div class="descriptor relative">
-        <p class="standalone-blurb">
-        to arrive at the final design, he referenced the previous artworks / utilizing the same format for name, date, and chapter /
-            due to the material references in the last 3 designs, he aimed to replicate that, by loosely following the design of a postcard & using small vertical text
-            / further, the use of reprinted blur in past artworks invokes as sense of nostalgia via broken technology which
-            was referenced in a slightly more contemporary form with the use of digital grain and blur in the final design
-        </p>
-        <img src="assets/images/TT_1.gif"></img>
-        <p class="standalone-blurb absolute">
-            to have a simple and structurally sound design, the composition was created on a 3x4 grid, with the line of text on the right 3rd, and the beginnings of each
-            piece of text sitting on a quadrant / the song itself is about the cyclical nature of some relationships, how at times we return to people we shouldn't /
-            I wanted to invoke that sense of coming and going and returning, and thus created the migratory bird design elements
-        </p>
+    <div class="segment">
+        <div class="ep-art-3 brick">
+            <img src="assets/images/Artwork_CP-WATERFALL-EP.jpg" class="module">
+            <p class="waterfall-blurb text">
+                further, the use of reprinted blur in past artworks invokes as sense of nostalgia via broken technology which
+                was referenced in a slightly more contemporary form with the use of digital grain and blur in the final design
+            </p>
+        </div>
+    </div>  
+    <div class="segment">
+        <div class="brick">
+            <img src="assets/images/TT_1.gif" class="module weakness-gif"></img>
+            <p class="standalone-blurb text">
+               / the song itself is about the cyclical nature of some relationships, how at times we return to people we shouldn't /
+                I wanted to invoke that sense of coming and going and returning, and thus created the migratory bird design elements
+            </p>
+        </div>
     </div>
-    <div class="sxsw-cover relative">
-        <img src="assets/images/SXSW-2023.jpg">
-        <p class="sxsw-blurb absolute">for their 2023 spring tour the design framework was used to create this tour flier
+    <div class="sxsw-cover brick">
+        <img src="assets/images/SXSW-2023.jpg" class="module">
+        <p class="sxsw-blurb module">for their 2023 spring tour the design framework was used to create this tour flier
         </p>
     </div>
 
