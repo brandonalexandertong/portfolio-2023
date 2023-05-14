@@ -104,3 +104,53 @@ body {
     top: 50%;
     text-align: left;
 }
+
+.dysphoria-cover {
+    width: 35vw;
+    margin: 40vh 0 0 40vw;
+}
+
+.dysphoria-blurb {
+    right: 0;
+    top: -5vh;
+}
+
+.dysphoria-2 {
+    margin: 30vh 0 0 20vw;
+    width: 70vw;
+}
+
+.dysphoria-2-blurb {
+    left: 0;
+    top: -5vh;
+}
+
+.dysphoria-3 {
+    margin: 30vh 0 0 10vw;
+    width: 70vw;
+}
+
+.dysphoria-3-blurb {
+    left: 0;
+    top: -5vh;
+}
+
+.dysphoria-6 {
+    margin: 30vh 0 0 10vw;
+    width: 70vw;
+}
+
+.dysphoria-6-blurb {
+    left: 0;
+    top: -5vh;
+}
+
+.dysphoria-9 {
+    margin: 30vh 0 0 10vw;
+    width: 70vw;
+}
+
+.dysphoria-9-blurb {
+    left: 0;
+    top: -5vh;
+}

@@ -88,10 +88,119 @@ layout: layouts/base.njk
         <p class="sxsw-blurb module">for their 2023 spring tour the design framework was used to create this tour flier
         </p>
     </div>
+</section>
 
+<section class="selected-work" id="dysphoria-magazine">
+    <div class="segment">
+        <div class="brick dysphoria-cover">
+            <img src="assets/images/dysphoria-cover.jpg" class="module ">
+            <p class="dysphoria-blurb text">this is a magazine he created title dysphoria
+            </p>
+        </div>
+    </div>
+    <div class="segment">
+        <div class="brick dysphoria-2">
+            <img src="assets/images/dysphoria-2.jpg" class="module ">
+            <p class="dysphoria-blurb text">as a musician and producer in new york he wanted to create something that showcased the bands and writers present in the scene
+            </p>
+        </div>
+    </div>
+    <div class="segment">
+        <div class="brick dysphoria-3">
+            <img src="assets/images/dysphoria-3.jpg" class="module ">
+            <p class="dysphoria-blurb text">his goal was to blend post-modern design's fluidity with swiss precision to create a magazine that felt contemporary yet clean
+        </div>
+    </div>
+    <div class="segment">
+        <div class="brick dysphoria-6">
+            <img src="assets/images/dysphoria-6.jpg" class="module ">
+            <p class="dysphoria-blurb text">he worked with a variety of photographers, artists, and writers and designed custom logos and layouts for their work
+        </div>
+    </div>
+    <div class="segment">
+        <div class="brick dysphoria-9">
+            <img src="assets/images/dysphoria-9.jpg" class="module ">
+            <p class="dysphoria-blurb text">he utilized internet aesthetics and contemporary typefaces while maintaining a strict grid throughout
+        </div>
+    </div>
+    <div class="segment">
+        <div class="brick dysphoria-moodboard">
+            <img src="assets/images/dysphoria-moodboard.jpg" class="module">
+            <p class="dysphoria-blurb text">and here is the original moodboard for the project
+        </div>
+    </div>
+</section>
+
+<section id="cts">
+    <div class="segment">
+        <div class="brick cts-splash">
+            <img src="assets/images/cts-splash.png" class="module">
+            <p class="cts-splash-blurb text">and here is the original moodboard for the project
+        </div>
+    </div>
+    <div class="segment">
+        <div class="brick cts-dropdown">
+            <img src="assets/images/cts-dropdown.png" class="module">
+            <p class="cts-dropdown-blurb text">and here is the original moodboard for the project
+        </div>
+    </div>
+    <div class="segment">
+        <div class="brick cts-action-1">
+            <img src="assets/images/cts-action-1.png" class="module">
+            <p class="cts-action-1 text">and here is the original moodboard for the project
+        </div>
+    </div>
+    <div class="segment">
+        <div class="brick cts-action-2">
+            <img src="assets/images/cts-action-2.png" class="module">
+            <p class="cts-action-2 text">and here is the original moodboard for the project
+        </div>
+    </div>
+</section>
+
+<section id="obg">
+    <div class="segment">
+        <div class="brick obg-splash">
+            <img src="assets/images/obg-splash.png" class="module">
+            <p class="obg-splash-blurb text">and here is the original moodboard for the project
+        </div>
+    </div>
+    <div class="segment">
+        <div class="brick obg-main">
+            <img src="assets/images/obg-main.png" class="module">
+            <p class="obg-main-blurb text">and here is the original moodboard for the project
+        </div>
+    </div>
+    <div class="segment">
+        <div class="brick obg-action-1">
+            <img src="assets/images/obg-action-1.png" class="module">
+            <p class="obg-action-1 text">and here is the original moodboard for the project
+        </div>
+    </div>  
+`  <div class="segment">
+        <div class="brick obg-action-2">
+            <img src="assets/images/obg-action-2.png" class="module">
+            <p class="obg-action-2 text">and here is the original moodboard for the project
+        </div>
+    </div>
 
 </section>
 
-<section>
+<section id="couch-prints">
+    <div class="segment">
+        <div class="brick obg-action-2">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/nfs-N_DySFw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+    </div>
+    <div class="segment">
+        <div class="brick obg-action-2">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/hRVFD8D1XU8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+    </div>
+    <div class="segment">
+        <div class="brick obg-action-2">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/7FTovNJdQSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+    </div>
 
 </section>
