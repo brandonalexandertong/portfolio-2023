@@ -122,35 +122,131 @@ body {
 
 .dysphoria-2-blurb {
     left: 0;
-    top: -5vh;
+    top: -10vh;
+    width: 25vw;
 }
 
 .dysphoria-3 {
-    margin: 30vh 0 0 10vw;
+    margin: 25vh 0 0 10vw;
     width: 70vw;
 }
 
 .dysphoria-3-blurb {
-    left: 0;
-    top: -5vh;
+    right: -20%;
+    top: -10vh;
+    width: 50%;
 }
 
 .dysphoria-6 {
-    margin: 30vh 0 0 10vw;
+    margin: 35vh 0 0 5vw;
     width: 70vw;
 }
 
 .dysphoria-6-blurb {
     left: 0;
     top: -5vh;
+    width: 30vw;
 }
 
 .dysphoria-9 {
-    margin: 30vh 0 0 10vw;
+    margin: 40vh 0 0 10vw;
     width: 70vw;
 }
 
 .dysphoria-9-blurb {
     left: 0;
     top: -5vh;
+}
+
+.dysphoria-moodboard {
+    margin: 50vh 0 0 30vw;
+    width: 60vw;
+}
+
+.dysphoria-moodboard-blurb {
+    top: -30%;
+}
+
+.cts-splash {
+    width: 70vw;
+    margin: 50vh 0 0 20vw;
+}
+
+.cts-splash-blurb {
+    top: -10vh;
+}
+
+.cts-dropdown {
+    width: 70vw;
+    margin: 20vh 0 0 10vw;
+}
+
+.cts-dropdown-blurb {
+    top: -15vh;
+    right: -10vw;
+    width: 30vw;
+}
+
+.cts-action-1 {
+    width: 70vw;
+    margin: 30vh 0 0 10vw;
+}
+
+.cts-action-1-blurb {
+    top: -10vh;
+}
+
+.cts-action-2 {
+    width: 70vw;
+    margin: 10vh 0 0 25vw;
+}
+
+.cts-action-2-blurb {
+    top: -5vh;
+    right: 20vw;
+    width: 40vw;
+}
+
+.obg-splash {
+    width: 70vw;
+    margin: 50vh 0 0 20vw;
+}
+
+.obg-splash-blurb {
+    top: -10vh;
+    right: 30vw;
+    width: 20vw;
+
+}
+
+.obg-main {
+    width: 70vw;
+    margin: 25vh 0 0 10vw;
+}
+
+.obg-main-blurb {
+    top: -10vh;
+    left: 20vw;
+    
+}
+
+.obg-action-1 {
+    width: 70vw;
+    margin: 30vh 0 0 20vw;
+}
+
+.obg-action-1-blurb {
+    top: -5vh;
+    left: 0;
+    
+}
+
+.obg-action-2 {
+    width: 70vw;
+    margin: 40vh 0 0 10vw;
+}
+
+.obg-action-2-blurb {
+    top: -10vh;
+    right: 0vw;
 }
