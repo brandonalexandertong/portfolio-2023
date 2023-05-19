@@ -250,3 +250,29 @@ body {
     top: -10vh;
     right: 0vw;
 }
+
+.tell-u {
+    margin: 50vh 0 0 20vw;
+}
+
+.tell-u-blurb {
+    top: -5vh;
+    left: 0;
+}
+
+.sxsw-recap {
+    margin: 30vh 0 0 20vw;
+}
+
+.sxsw-recap-blurb {
+    top: -10vh;
+    left: 20vw;
+}
+
+.impressions {
+    margin: 20vh 0 0 10vw;
+}
+
+.impressions-blurb {
+    top: -10vh;
+}

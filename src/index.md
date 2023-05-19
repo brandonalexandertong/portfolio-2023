@@ -38,13 +38,13 @@ layout: layouts/base.njk
     <div class="segment">
         <div class="brick weakness-cover">
             <img src="assets/images/WEAKNESS-ART-03.jpg" class="module">
-            <p class="weakness-blurb text">this is the cover art for the group Couch Print's 2023 single "Weakness"
+            <p class="weakness-blurb text">this is the cover art for the group <a href="https://open.spotify.com/artist/19kbFuDgyFDHHOjKPaNTNi?si=RPO-LYUvQEuB9Yo_mt-pJw">Couch Print's</a> 2023 single "Weakness"
             </p>
         </div>  
     </div>
     <div class="ep-blurb">
         <p>
-            these are the last 3 covers of their releases created by Colin Doerffler
+            these are the last 3 covers of their releases created by <a href="http://colindoerffler.com/">Colin Doerffler</a>
         </p>
     </div>
     <div class="segment">
@@ -129,14 +129,15 @@ layout: layouts/base.njk
     <div class="segment">
         <div class="brick cts-splash">
             <img src="assets/images/cts-splash.png" class="module">
-            <p class="cts-splash-blurb text">here is a website he developed for photographer Cameron Tidball-Sciullo
+            <p class="cts-splash-blurb text">here is a website he developed for photographer <a href="https://camerontidballsciullo.com/">Cameron Tidball-Sciullo</a>
             </p>
         </div>
     </div>
     <div class="segment">
         <div class="brick cts-dropdown">
             <img src="assets/images/cts-dropdown.png" class="module">
-            <p class="cts-dropdown-blurb text">the design (by Jacob Truax) had many challenges: multiple overlayed high res images, a horizontal scroll, distinct sections that can be accessed, and a backend were all needed for this project
+            <p class="cts-dropdown-blurb text">the design (by 
+            <a href="jacobtruax.info">Jacob Truax</a>) had many challenges: multiple overlayed high res images, a horizontal scroll, distinct sections that can be accessed, and a backend were all needed for this project
             </p>
         </div>
     </div>
@@ -160,14 +161,16 @@ layout: layouts/base.njk
     <div class="segment">
         <div class="brick obg-splash">
             <img src="assets/images/obg-splash.png" class="module">
-            <p class="obg-splash-blurb text">here is a website he developed for designer Ben Ganz
+            <p class="obg-splash-blurb text">here is a website he developed for designer 
+            <a href="https://officebenganz.com/">Ben Ganz</a>
             </p>
         </div>
     </div>
     <div class="segment">
         <div class="brick obg-main">
             <img src="assets/images/obg-main.png" class="module">
-            <p class="obg-main-blurb text">the design (by Jacob Truax) had a different set of challenges: transitional page animations, an animated 3d object, and hyper-specific directional changes when navigating
+            <p class="obg-main-blurb text">the design (by 
+            <a href="jacobtruax.info">Jacob Truax</a>) had a different set of challenges: transitional page animations, an animated 3d object, and hyper-specific directional changes when navigating
             </p>
         </div>
     </div>
@@ -181,7 +184,7 @@ layout: layouts/base.njk
 `  <div class="segment">
         <div class="brick obg-action-2">
             <img src="assets/images/obg-action-2.png" class="module">
-            <p class="obg-action-2-blurb text">he integrated Alvaro Trigo's fullpage.js to create the page transitions
+            <p class="obg-action-2-blurb text">he integrated <a href="https://alvarotrigo.com/fullPage/">Alvaro Trigo's</a> fullpage.js to create the page transitions
             </p>
         </div>
     </div>
@@ -192,21 +195,21 @@ layout: layouts/base.njk
     <div class="segment">
         <div class="brick tell-u">
             <iframe width="560" height="315" src="https://www.youtube.com/embed/nfs-N_DySFw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-            <p class="tell-u-blurb text">he integrated Alvaro Trigo's fullpage.js to create the page transitions
+            <p class="tell-u-blurb text">here are some samples of music he has written and produced as 1/2 of electronic duo <a href="https://open.spotify.com/artist/19kbFuDgyFDHHOjKPaNTNi?si=azr4gHOiR3GG_i-rwN8mxg">Couch Prints</a>
             </p>
         </div>
     </div>
     <div class="segment">
         <div class="brick sxsw-recap">
             <iframe width="560" height="315" src="https://www.youtube.com/embed/hRVFD8D1XU8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-            <p class="sxsw-recap text">he integrated Alvaro Trigo's fullpage.js to create the page transitions
+            <p class="sxsw-recap-blurb text">with this group he has toured the US and played multiple festivals including South By Southwest
             </p>
         </div>
     </div>
     <div class="segment">
         <div class="brick impressions">
             <iframe width="560" height="315" src="https://www.youtube.com/embed/7FTovNJdQSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-            <p class="impressions-blurb text">he integrated Alvaro Trigo's fullpage.js to create the page transitions
+            <p class="impressions-blurb text">with many different collaborators he has worked to create a world that is cohesive visually and sonically
             </p>
         </div>
     </div>
