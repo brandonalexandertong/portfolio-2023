@@ -34,90 +34,45 @@ layout: layouts/base.njk
     </div>
 </section>
 
-<section class="selected-work" id="weakness">
-    <div class="segment">
-        <div class="brick weakness-cover">
-            <img src="assets/images/WEAKNESS-ART-03.jpg" class="module">
-            <p class="weakness-blurb text">this is the cover art for the group <a href="https://open.spotify.com/artist/19kbFuDgyFDHHOjKPaNTNi?si=RPO-LYUvQEuB9Yo_mt-pJw">Couch Print's</a> 2023 single "Weakness"
-            </p>
-        </div>  
-    </div>
-    <div class="ep-blurb">
-        <p>
-            these are the last 3 covers of their releases created by <a href="http://colindoerffler.com/">Colin Doerffler</a>
-        </p>
-    </div>
-    <div class="segment">
-        <div class="brick ep-art-1">
-            <img src="assets/images/Artwork_CP-HORSEPOWER.jpg" class="module">
-        </div>   
-    </div>
-    <div class="segment">
-        <div class="brick ep-art-2">
-            <img src="assets/images/impressions-art.jpg" class="module">
-            <p class="impressions-blurb text">due to the material references in the last 3 designs, he aimed to replicate that, by loosely following the design of a postcard & using small vertical text
-            </p>
-        </div>
-    </div>
-    <div class="ep-blurb-2">
-        <p>
-             to have a simple and structurally sound design, the composition was created on a 3x4 grid, with the line of text on the right 3rd, and the beginnings of each
-                piece of text sitting on a quadrant 
-        </p>
-    </div>
-    <div class="segment">
-        <div class="ep-art-3 brick">
-            <img src="assets/images/Artwork_CP-WATERFALL-EP.jpg" class="module">
-            <p class="waterfall-blurb text">
-                further, the use of reprinted blur in past artworks invokes as sense of nostalgia via broken technology which
-                was referenced in a slightly more contemporary form with the use of digital grain and blur in the final design
-            </p>
-        </div>
-    </div>  
-    <div class="sxsw-cover brick">
-        <img src="assets/images/SXSW-2023.jpg" class="module">
-        <p class="sxsw-blurb text">for their 2023 spring tour the design framework was used to create this tour flier
-        </p>
-    </div>
-</section>
+
 
 <section class="selected-work" id="dysphoria-magazine">
     <div class="segment">
-        <div class="brick dysphoria-cover">
+        <div class="brick dysphoria-cover shadow-fix">
             <img src="assets/images/dysphoria-cover.jpg" class="module ">
             <p class="dysphoria-blurb text">this is a magazine he created title dysphoria
             </p>
         </div>
     </div>
     <div class="segment">
-        <div class="brick dysphoria-2">
+        <div class="brick dysphoria-2 shadow-fix">
             <img src="assets/images/dysphoria-2.jpg" class="module ">
             <p class="dysphoria-2-blurb text">as a musician and producer in new york he wanted to create something that showcased the bands and writers present in the scene
             </p>
         </div>
     </div>
     <div class="segment">
-        <div class="brick dysphoria-3">
+        <div class="brick dysphoria-3 shadow-fix">
             <img src="assets/images/dysphoria-3.jpg" class="module ">
             <p class="dysphoria-3-blurb text">his goal was to blend post-modern design's fluidity with swiss precision to create a magazine that felt contemporary yet clean
             </p>
         </div>
     </div>
     <div class="segment">
-        <div class="brick dysphoria-6">
+        <div class="brick dysphoria-6 shadow-fix">
             <img src="assets/images/dysphoria-6.jpg" class="module ">
             <p class="dysphoria-6-blurb text">he worked with a variety of photographers, artists, and writers and designed custom logos and layouts for their work
             </p>
         </div>
     </div>
     <div class="segment">
-        <div class="brick dysphoria-9">
+        <div class="brick dysphoria-9 shadow-fix">
             <img src="assets/images/dysphoria-9.jpg" class="module ">
             <p class="dysphoria-9-blurb text">he utilized internet aesthetics and contemporary typefaces while maintaining a strict grid throughout
         </div>
     </div>
     <div class="segment">
-        <div class="brick dysphoria-moodboard">
+        <div class="brick dysphoria-moodboard shadow-fix">
             <img src="assets/images/dysphoria-moodboard.jpg" class="module">
             <p class="dysphoria-moodboard-blurb text">and here is the original moodboard for the project
             </p>
@@ -125,7 +80,7 @@ layout: layouts/base.njk
     </div>
 </section>
 
-<section id="cts">
+<section id="cts" class="margin-section">
     <div class="segment">
         <div class="brick cts-splash">
             <img src="assets/images/cts-splash.png" class="module">
@@ -157,7 +112,7 @@ layout: layouts/base.njk
     </div>
 </section>
 
-<section id="obg">
+<section id="obg" class="margin-section">
     <div class="segment">
         <div class="brick obg-splash">
             <img src="assets/images/obg-splash.png" class="module">
@@ -191,27 +146,44 @@ layout: layouts/base.njk
 
 </section>
 
-<section id="couch-prints">
+<section id="couch-prints" class="margin-section">
     <div class="segment">
-        <div class="brick tell-u">
+        <div class="brick tell-u shadow-fix">
             <iframe width="560" height="315" src="https://www.youtube.com/embed/nfs-N_DySFw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-            <p class="tell-u-blurb text">here are some samples of music he has written and produced as 1/2 of electronic duo <a href="https://open.spotify.com/artist/19kbFuDgyFDHHOjKPaNTNi?si=azr4gHOiR3GG_i-rwN8mxg">Couch Prints</a>
+            <p class="tell-u-blurb text">here are some samples of music and design he has created for electronic duo <a href="https://open.spotify.com/artist/19kbFuDgyFDHHOjKPaNTNi?si=azr4gHOiR3GG_i-rwN8mxg">Couch Prints</a>
             </p>
         </div>
     </div>
     <div class="segment">
-        <div class="brick sxsw-recap">
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/hRVFD8D1XU8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <div class="brick sxsw-cover shadow-fix">
+            <img src="assets/images/SXSW-2023.jpg" class="module">
             <p class="sxsw-recap-blurb text">with this group he has toured the US and played multiple festivals including South By Southwest
             </p>
         </div>
     </div>
     <div class="segment">
-        <div class="brick impressions">
+        <div class="brick impressions shadow-fix">
             <iframe width="560" height="315" src="https://www.youtube.com/embed/7FTovNJdQSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-            <p class="impressions-blurb text">with many different collaborators he has worked to create a world that is cohesive visually and sonically
+            <p class="impressions-blurb text">he has worked to create a world that is cohesive visually and sonically, major themes being melancholy, late capitalism, and American malaise
             </p>
         </div>
+    </div>
+    <div class="segment"> 
+        <div class="brick weakness-cover shadow-fix">
+            <img src="assets/images/WEAKNESS-ART-03.jpg" class="module">
+            <p class="weakness-blurb text">this is the cover artwork for their most recent single "Weakness"
+            </p>
+        </div>  
+    </div>
+    <div class="segment">
+        <div class="brick weakness-gif shadow-fix">
+            <img class="module" src="assets/images/TT_1.gif"></img>
+            <p class="impressions-blurb text">additional promotional materials, including this music video, adhered to the aesthetic language determined prior. some common themes throughout were monochrome, blurred-motion, and the sky
+            </p>
+        </div>
+    </div> 
+    <div class="sxsw-recap brick shadow-fix">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/hRVFD8D1XU8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </div>
 
 </section>

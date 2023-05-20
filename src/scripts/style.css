@@ -5,6 +5,7 @@ body {
     letter-spacing: 2px;
     line-height: 12px;
     text-align: center;
+    cursor: crosshair;
 
 }
 
@@ -89,7 +90,11 @@ a {
 
 .weakness-gif {
     width: 30vw;
-    margin-top: 45vh;
+    margin: 45vh 0 0 25vw;
+}
+
+.weakness-gif img {
+    width: 30vw;
 }
 
 .descriptor img {
@@ -98,7 +103,7 @@ a {
 }
 
 .sxsw-cover {
-    width: 25%;
+    width: 35vw;
     margin: 25vh 0 0 10vw;
 }
 
@@ -265,7 +270,7 @@ a {
 }
 
 .sxsw-recap {
-    margin: 30vh 0 0 20vw;
+    margin: 30vh 0 30vh 20vw;
 }
 
 .sxsw-recap-blurb {
@@ -279,4 +284,36 @@ a {
 
 .impressions-blurb {
     top: -10vh;
+}
+
+.shadow-fix img {
+    filter: drop-shadow(0px 3px 6px black)
+}
+
+@media (max-width:600px ) {
+    .text {
+        width: 100%;
+        top: -5vh;
+        text-align: center;
+        left: 0;
+        position:initial;
+    }
+
+    .margin-section {
+        margin-top: 60vh;
+    }
+
+    .shadow-fix .text {
+        margin-top: 14px;
+
+    }
+    .brick {
+        width: 80vw;
+        margin: 15vh 10vw 0 10vw;
+        text-align: center;
+    }
+
+    .weakness-gif img {
+        width: 80vw;
+    }
 }

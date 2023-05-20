@@ -1,5 +1,6 @@
 import './base.css'
 import './style.css'
+import link from './music.png'
 
 function importAll(r) {
     let images = {};
@@ -10,29 +11,14 @@ function importAll(r) {
   
   const images = importAll(require.context('./lib', false, /\.(png|jpe?g|svg|gif)$/));
 
-function shuffle(array) {
-  array.sort(() => Math.random() - 0.5);
-}
 
-function shuffleModules() {
-  const bricks = document.getElementsByClassName('brick')
-  let min = 1
-  let max = 6
-  let quarterArray = []
-    for (let i = min; i < (max + 1); i++) {
-      let quarter = "q".concat(i)
-      quarterArray.push(quarter)
-    }
+const myIcon = new Image()
+myIcon.src = link
 
-  for (let i = 0; i < bricks.length; i++) {
-    shuffle(quarterArray)
-    const modules = bricks[i].getElementsByClassName('module')
-    console.log(modules)
-    for (let j = 0; j < modules.length; j++) {
-      let module = modules[j]
-      module.classList.add(quarterArray[j])
-    }
-  }
-}
+const headerIcon = document.createElement('link')
+headerIcon.rel = 'icon'
+headerIcon.href = link
+headerIcon.type = 'image/png'
+headerIcon.sizes = '32x32'
 
-shuffleModules()
+document.getElementsByTagName('head')[0].appendChild(headerIcon)
