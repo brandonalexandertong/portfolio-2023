@@ -27,7 +27,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/noSourceMaps.js */ \"./node_modules/css-loader/dist/runtime/noSourceMaps.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);\n// Imports\n\n\nvar ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));\n// Module\n___CSS_LOADER_EXPORT___.push([module.id, \"body {\\n    font-family: \\\"nimbus-sans\\\", sans-serif;\\n    font-weight: 400;\\n    font-style: normal;\\n    letter-spacing: 2px;\\n    line-height: 12px;\\n    text-align: center;\\n    cursor: crosshair;\\n\\n}\\n\\na {\\n    color: #000;\\n}\\n\\n.cls-1 {\\n    stroke: #000;\\n    stroke-linecap: round;\\n    stroke-linejoin: round;\\n}\\n\\n.segment {\\n    width: 100%;\\n}\\n\\n.brick {\\n    position: relative;\\n}\\n.text {\\n    position: absolute;\\n}\\n\\n.about-2 {\\n    margin: 20vh 0 0 30vw;\\n    width: 20vw;\\n}\\n\\n.weakness-cover {\\n    margin: 30vh 0 0 50vw;\\n    width: 35vw;\\n}\\n\\n.weakness-blurb {\\n    left: -22vw;\\n    top: 20vh;\\n    width: 20vw;\\n}\\n\\n\\n.ep-art-1 {\\n    width: 30vw;\\n    margin: 5vh 0 0 30vh;\\n}\\n\\n.ep-blurb {\\n    top: -5vh;\\n    left: 20%;\\n    margin-top: 31vh;\\n    width: 35vw;\\n}\\n\\n.ep-blurb-2 {\\n    margin-top: 10vh;\\n}\\n\\n.ep-art-2 {\\n    width: 30vw;\\n    margin: 20vh 0 0 46vw;\\n}\\n\\n.impressions-blurb {\\n    top: -15%;\\n}\\n\\n.ep-art-3 {\\n    width: 30vw;\\n    margin: 40vh 0 0 61vw;\\n}\\n\\n.waterfall-blurb {\\n    right: 100%;\\n    top: 0;\\n}\\n\\n.descriptor {\\n    width: 75vw;\\n    margin: 30vh 0 0 15vw;\\n    letter-spacing: 0px;\\n}\\n\\n.weakness-gif {\\n    width: 30vw;\\n    margin: 45vh 0 0 25vw;\\n}\\n\\n.weakness-gif img {\\n    width: 30vw;\\n}\\n\\n.descriptor img {\\n    width: 40%;\\n    margin: 5%\\n}\\n\\n.sxsw-cover {\\n    width: 35vw;\\n    margin: 25vh 0 0 10vw;\\n}\\n\\n.sxsw-blurb {\\n    right: -50%;\\n    width: 40%;\\n    top: 50%;\\n    text-align: left;\\n}\\n\\n.dysphoria-cover {\\n    width: 35vw;\\n    margin: 40vh 0 0 40vw;\\n}\\n\\n.dysphoria-blurb {\\n    right: 0;\\n    top: -5vh;\\n}\\n\\n.dysphoria-2 {\\n    margin: 30vh 0 0 20vw;\\n    width: 70vw;\\n}\\n\\n.dysphoria-2-blurb {\\n    left: 0;\\n    top: -10vh;\\n    width: 25vw;\\n}\\n\\n.dysphoria-3 {\\n    margin: 25vh 0 0 10vw;\\n    width: 70vw;\\n}\\n\\n.dysphoria-3-blurb {\\n    right: -20%;\\n    top: -10vh;\\n    width: 50%;\\n}\\n\\n.dysphoria-6 {\\n    margin: 35vh 0 0 5vw;\\n    width: 70vw;\\n}\\n\\n.dysphoria-6-blurb {\\n    left: 0;\\n    top: -5vh;\\n    width: 30vw;\\n}\\n\\n.dysphoria-9 {\\n    margin: 40vh 0 0 10vw;\\n    width: 70vw;\\n}\\n\\n.dysphoria-9-blurb {\\n    left: 0;\\n    top: -5vh;\\n}\\n\\n.dysphoria-moodboard {\\n    margin: 50vh 0 0 30vw;\\n    width: 60vw;\\n}\\n\\n.dysphoria-moodboard-blurb {\\n    top: -30%;\\n}\\n\\n.cts-splash {\\n    width: 70vw;\\n    margin: 50vh 0 0 20vw;\\n}\\n\\n.cts-splash-blurb {\\n    top: -10vh;\\n}\\n\\n.cts-dropdown {\\n    width: 70vw;\\n    margin: 20vh 0 0 10vw;\\n}\\n\\n.cts-dropdown-blurb {\\n    top: -15vh;\\n    right: -10vw;\\n    width: 30vw;\\n}\\n\\n.cts-action-1 {\\n    width: 70vw;\\n    margin: 30vh 0 0 10vw;\\n}\\n\\n.cts-action-1-blurb {\\n    top: -10vh;\\n}\\n\\n.cts-action-2 {\\n    width: 70vw;\\n    margin: 10vh 0 0 25vw;\\n}\\n\\n.cts-action-2-blurb {\\n    top: -5vh;\\n    right: 20vw;\\n    width: 40vw;\\n}\\n\\n.obg-splash {\\n    width: 70vw;\\n    margin: 50vh 0 0 20vw;\\n}\\n\\n.obg-splash-blurb {\\n    top: -10vh;\\n    right: 30vw;\\n    width: 20vw;\\n\\n}\\n\\n.obg-main {\\n    width: 70vw;\\n    margin: 25vh 0 0 10vw;\\n}\\n\\n.obg-main-blurb {\\n    top: -10vh;\\n    left: 20vw;\\n    \\n}\\n\\n.obg-action-1 {\\n    width: 70vw;\\n    margin: 30vh 0 0 20vw;\\n}\\n\\n.obg-action-1-blurb {\\n    top: -5vh;\\n    left: 0;\\n    \\n}\\n\\n.obg-action-2 {\\n    width: 70vw;\\n    margin: 40vh 0 0 10vw;\\n}\\n\\n.obg-action-2-blurb {\\n    top: -10vh;\\n    right: 0vw;\\n}\\n\\n.tell-u {\\n    margin: 50vh 0 0 20vw;\\n}\\n\\n.tell-u-blurb {\\n    top: -5vh;\\n    left: 0;\\n}\\n\\n.sxsw-recap {\\n    margin: 30vh 0 30vh 20vw;\\n}\\n\\n.sxsw-recap-blurb {\\n    top: -10vh;\\n    left: 20vw;\\n}\\n\\n.impressions {\\n    margin: 20vh 0 0 10vw;\\n}\\n\\n.impressions-blurb {\\n    top: -10vh;\\n}\\n\\n.shadow-fix img {\\n    filter: drop-shadow(0px 3px 6px black)\\n}\\n\\n@media (max-width:600px ) {\\n    .text {\\n        width: 100%;\\n        top: -5vh;\\n        text-align: center;\\n        left: 0;\\n        position:initial;\\n    }\\n\\n    .margin-section {\\n        margin-top: 60vh;\\n    }\\n\\n    .shadow-fix .text {\\n        margin-top: 14px;\\n\\n    }\\n    .brick {\\n        width: 80vw;\\n        margin: 15vh 10vw 0 10vw;\\n        text-align: center;\\n    }\\n\\n    .weakness-gif img {\\n        width: 80vw;\\n    }\\n}\", \"\"]);\n// Exports\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);\n\n\n//# sourceURL=webpack://portfolio-2023/./src/scripts/style.css?./node_modules/css-loader/dist/cjs.js");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/noSourceMaps.js */ \"./node_modules/css-loader/dist/runtime/noSourceMaps.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);\n// Imports\n\n\nvar ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));\n// Module\n___CSS_LOADER_EXPORT___.push([module.id, \"body {\\n    font-family: \\\"nimbus-sans\\\", sans-serif;\\n    font-weight: 400;\\n    font-style: normal;\\n    letter-spacing: 2px;\\n    line-height: 12px;\\n    text-align: center;\\n    cursor: crosshair;\\n\\n}\\n\\n\\n.video-container {\\n    position: relative;\\n    overflow: hidden;\\n    height: 0;\\n    padding-bottom: 56.25%;\\n}\\n\\n.video-container iframe,\\n.video-container embed {\\n    position: absolute;\\n    top: 0;\\n    left: 50%;\\n    transform: translateX(-50%);\\n    width: 80%;\\n    height: 80%;\\n    max-width: 100%;\\n}\\n\\n.video-wrap {\\n    width: 100%;\\n}\\n\\n\\na {\\n    color: #000;\\n}\\n\\n.cls-1 {\\n    stroke: #000;\\n    stroke-linecap: round;\\n    stroke-linejoin: round;\\n}\\n\\n.segment {\\n    width: 100%;\\n}\\n\\n.brick {\\n    position: relative;\\n}\\n.text {\\n    position: absolute;\\n}\\n\\n.about-2 {\\n    margin: 20vh 0 0 30vw;\\n    width: 20vw;\\n}\\n\\n.weakness-cover {\\n    margin: 30vh 0 0 50vw;\\n    width: 35vw;\\n}\\n\\n.weakness-blurb {\\n    left: -22vw;\\n    top: 20vh;\\n    width: 20vw;\\n}\\n\\n\\n.ep-art-1 {\\n    width: 30vw;\\n    margin: 5vh 0 0 30vh;\\n}\\n\\n.ep-blurb {\\n    top: -5vh;\\n    left: 20%;\\n    margin-top: 31vh;\\n    width: 35vw;\\n}\\n\\n.ep-blurb-2 {\\n    margin-top: 10vh;\\n}\\n\\n.ep-art-2 {\\n    width: 30vw;\\n    margin: 20vh 0 0 46vw;\\n}\\n\\n.ep-art-3 {\\n    width: 30vw;\\n    margin: 40vh 0 0 61vw;\\n}\\n\\n.waterfall-blurb {\\n    right: 100%;\\n    top: 0;\\n}\\n\\n.descriptor {\\n    width: 75vw;\\n    margin: 30vh 0 0 15vw;\\n    letter-spacing: 0px;\\n}\\n\\n.weakness-gif {\\n    width: 30vw;\\n    margin: 45vh 0 0 25vw;\\n}\\n\\n.weakness-gif img {\\n    width: 30vw;\\n}\\n\\n.descriptor img {\\n    width: 40%;\\n    margin: 5%\\n}\\n\\n.sxsw-cover {\\n    width: 35vw;\\n    margin: 25vh 0 0 10vw;\\n}\\n\\n.sxsw-blurb {\\n    right: -50%;\\n    width: 40%;\\n    top: 50%;\\n    text-align: left;\\n}\\n\\n.dysphoria-cover {\\n    width: 35vw;\\n    margin: 40vh 0 0 40vw;\\n}\\n\\n.dysphoria-blurb {\\n    right: 0;\\n    top: -5vh;\\n}\\n\\n.dysphoria-2 {\\n    margin: 30vh 0 0 20vw;\\n    width: 70vw;\\n}\\n\\n.dysphoria-2-blurb {\\n    left: 0;\\n    top: -10vh;\\n    width: 25vw;\\n}\\n\\n.dysphoria-3 {\\n    margin: 25vh 0 0 10vw;\\n    width: 70vw;\\n}\\n\\n.dysphoria-3-blurb {\\n    right: -20%;\\n    top: -10vh;\\n    width: 50%;\\n}\\n\\n.dysphoria-6 {\\n    margin: 35vh 0 0 5vw;\\n    width: 70vw;\\n}\\n\\n.dysphoria-6-blurb {\\n    left: 0;\\n    top: -5vh;\\n    width: 30vw;\\n}\\n\\n.dysphoria-9 {\\n    margin: 40vh 0 0 10vw;\\n    width: 70vw;\\n}\\n\\n.dysphoria-9-blurb {\\n    left: 0;\\n    top: -5vh;\\n}\\n\\n.dysphoria-moodboard {\\n    margin: 50vh 0 0 30vw;\\n    width: 60vw;\\n}\\n\\n.dysphoria-moodboard-blurb {\\n    top: -30%;\\n}\\n\\n.son-cover {\\n    width: 60vw;\\n    margin: 50vh 0 0 15vw;\\n}\\n\\n.son-blurb {\\n    top: -10vh;\\n}\\n\\n.son-2 {\\n    width: 40vw;\\n    margin: 40vh 0 0 15vw;\\n}\\n\\n.son-2-blurb {\\n    top: -5vh;\\n    right: -10vw;\\n}\\n\\n.son-3 {\\n    width: 50vw;\\n    margin: 30vh 0 0 25vw;\\n}\\n\\n.son-3-blurb {\\n    top: -5vh;\\n    right: -15vw;\\n}\\n\\n.son-4 {\\n    width: 30vw;\\n    margin: 30vh 0 0 45vw;\\n}\\n\\n.son-4-blurb {\\n    top: -5vh;\\n    right: -5vw;\\n}\\n\\n.son-recap {\\n    margin-top: 20vh;\\n}\\n.cts-splash {\\n    width: 70vw;\\n    margin: 50vh 0 0 20vw;\\n}\\n\\n.cts-splash-blurb {\\n    top: -10vh;\\n}\\n\\n.cts-dropdown {\\n    width: 70vw;\\n    margin: 20vh 0 0 10vw;\\n}\\n\\n.cts-dropdown-blurb {\\n    top: -15vh;\\n    right: -10vw;\\n    width: 30vw;\\n}\\n\\n.cts-action-1 {\\n    width: 70vw;\\n    margin: 30vh 0 0 10vw;\\n}\\n\\n.cts-action-1-blurb {\\n    top: -10vh;\\n}\\n\\n.cts-action-2 {\\n    width: 70vw;\\n    margin: 10vh 0 0 25vw;\\n}\\n\\n.cts-action-2-blurb {\\n    top: -5vh;\\n    right: 20vw;\\n    width: 40vw;\\n}\\n\\n.obg-splash {\\n    width: 70vw;\\n    margin: 50vh 0 0 20vw;\\n}\\n\\n.obg-splash-blurb {\\n    top: -10vh;\\n    right: 30vw;\\n    width: 20vw;\\n\\n}\\n\\n.obg-main {\\n    width: 70vw;\\n    margin: 25vh 0 0 10vw;\\n}\\n\\n.obg-main-blurb {\\n    top: -10vh;\\n    left: 20vw;\\n    \\n}\\n\\n.obg-action-1 {\\n    width: 70vw;\\n    margin: 30vh 0 0 20vw;\\n}\\n\\n.obg-action-1-blurb {\\n    top: -5vh;\\n    left: 0;\\n    \\n}\\n\\n.obg-action-2 {\\n    width: 70vw;\\n    margin: 40vh 0 0 10vw;\\n}\\n\\n.obg-action-2-blurb {\\n    top: -10vh;\\n    right: 0vw;\\n}\\n\\n.tell-u {\\n    margin: 30vh 0 0 20vw;\\n    width: 50vw;\\n}\\n\\n.tell-u-blurb {\\n    top: -5vh;\\n    left: 0;\\n}\\n\\n.sxsw-recap {\\n    margin: 30vh 0 30vh 20vw;\\n}\\n\\n.sxsw-recap-blurb {\\n    top: -5vh;\\n    left: 20vw;\\n}\\n\\n.release-3 {\\n    width: 50vw;\\n    margin: 20vh 0 0 25vw;\\n}\\n\\n.release-3-blurb {\\n    top: -5vh;\\n}\\n\\n\\n.release-6 {\\n    width: 60vw;\\n    margin: 20vh 0 0 15vw;\\n}\\n\\n.release-6-blurb {\\n    top: -5vh;\\n}\\n\\n.release-5 {\\n    width: 60vw;\\n    margin: 20vh 0 0 25vw;\\n}\\n\\n.release-4 {\\n    width: 40vw;\\n    margin: 20vh 0 0 40vw;\\n}\\n\\n.release-recap {\\n    margin-top: 30vh;\\n}\\n\\n.shadow-fix img {\\n    filter: drop-shadow(0px 3px 6px black)\\n}\\n\\n@media (max-width:600px ) {\\n    .text {\\n        width: 100%;\\n        top: -5vh;\\n        text-align: center;\\n        left: 0;\\n        position:initial;\\n    }\\n\\n    .margin-section {\\n        margin-top: 60vh;\\n    }\\n\\n    .shadow-fix .text {\\n        margin-top: 14px;\\n\\n    }\\n    .brick {\\n        width: 80vw;\\n        margin: 15vh 10vw 0 10vw;\\n        text-align: center;\\n    }\\n\\n    \\n}\", \"\"]);\n// Exports\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);\n\n\n//# sourceURL=webpack://portfolio-2023/./src/scripts/style.css?./node_modules/css-loader/dist/cjs.js");
 
 /***/ }),
 
@@ -158,7 +158,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _bas
   \*************************************************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("var map = {\n\t\"./Artwork_CP-HORSEPOWER.jpg\": \"./src/scripts/lib/Artwork_CP-HORSEPOWER.jpg\",\n\t\"./Artwork_CP-WATERFALL-EP.jpg\": \"./src/scripts/lib/Artwork_CP-WATERFALL-EP.jpg\",\n\t\"./SXSW-2023.jpg\": \"./src/scripts/lib/SXSW-2023.jpg\",\n\t\"./TT_1.gif\": \"./src/scripts/lib/TT_1.gif\",\n\t\"./WEAKNESS-ART-03.jpg\": \"./src/scripts/lib/WEAKNESS-ART-03.jpg\",\n\t\"./WEAKNESS-Banner.jpg\": \"./src/scripts/lib/WEAKNESS-Banner.jpg\",\n\t\"./cts-action-1.png\": \"./src/scripts/lib/cts-action-1.png\",\n\t\"./cts-action-2.png\": \"./src/scripts/lib/cts-action-2.png\",\n\t\"./cts-dropdown.png\": \"./src/scripts/lib/cts-dropdown.png\",\n\t\"./cts-splash.png\": \"./src/scripts/lib/cts-splash.png\",\n\t\"./dysphoria-10.jpg\": \"./src/scripts/lib/dysphoria-10.jpg\",\n\t\"./dysphoria-11.jpg\": \"./src/scripts/lib/dysphoria-11.jpg\",\n\t\"./dysphoria-2.jpg\": \"./src/scripts/lib/dysphoria-2.jpg\",\n\t\"./dysphoria-3.jpg\": \"./src/scripts/lib/dysphoria-3.jpg\",\n\t\"./dysphoria-4.jpg\": \"./src/scripts/lib/dysphoria-4.jpg\",\n\t\"./dysphoria-5.jpg\": \"./src/scripts/lib/dysphoria-5.jpg\",\n\t\"./dysphoria-6.jpg\": \"./src/scripts/lib/dysphoria-6.jpg\",\n\t\"./dysphoria-7.jpg\": \"./src/scripts/lib/dysphoria-7.jpg\",\n\t\"./dysphoria-8.jpg\": \"./src/scripts/lib/dysphoria-8.jpg\",\n\t\"./dysphoria-9.jpg\": \"./src/scripts/lib/dysphoria-9.jpg\",\n\t\"./dysphoria-cover.jpg\": \"./src/scripts/lib/dysphoria-cover.jpg\",\n\t\"./dysphoria-moodboard.jpg\": \"./src/scripts/lib/dysphoria-moodboard.jpg\",\n\t\"./impressions-art.jpg\": \"./src/scripts/lib/impressions-art.jpg\",\n\t\"./obg-action-1.png\": \"./src/scripts/lib/obg-action-1.png\",\n\t\"./obg-action-2.png\": \"./src/scripts/lib/obg-action-2.png\",\n\t\"./obg-main.png\": \"./src/scripts/lib/obg-main.png\",\n\t\"./obg-splash.png\": \"./src/scripts/lib/obg-splash.png\"\n};\n\n\nfunction webpackContext(req) {\n\tvar id = webpackContextResolve(req);\n\treturn __webpack_require__(id);\n}\nfunction webpackContextResolve(req) {\n\tif(!__webpack_require__.o(map, req)) {\n\t\tvar e = new Error(\"Cannot find module '\" + req + \"'\");\n\t\te.code = 'MODULE_NOT_FOUND';\n\t\tthrow e;\n\t}\n\treturn map[req];\n}\nwebpackContext.keys = function webpackContextKeys() {\n\treturn Object.keys(map);\n};\nwebpackContext.resolve = webpackContextResolve;\nmodule.exports = webpackContext;\nwebpackContext.id = \"./src/scripts/lib sync \\\\.(png%7Cjpe?g%7Csvg%7Cgif)$\";\n\n//# sourceURL=webpack://portfolio-2023/./src/scripts/lib/_sync_nonrecursive_\\.(png%257Cjpe?");
+eval("var map = {\n\t\"./Artwork_CP-HORSEPOWER.jpg\": \"./src/scripts/lib/Artwork_CP-HORSEPOWER.jpg\",\n\t\"./Artwork_CP-WATERFALL-EP.jpg\": \"./src/scripts/lib/Artwork_CP-WATERFALL-EP.jpg\",\n\t\"./SXSW-2023.jpg\": \"./src/scripts/lib/SXSW-2023.jpg\",\n\t\"./TT_1.gif\": \"./src/scripts/lib/TT_1.gif\",\n\t\"./WEAKNESS-ART-03.jpg\": \"./src/scripts/lib/WEAKNESS-ART-03.jpg\",\n\t\"./WEAKNESS-Banner.jpg\": \"./src/scripts/lib/WEAKNESS-Banner.jpg\",\n\t\"./cts-action-1.png\": \"./src/scripts/lib/cts-action-1.png\",\n\t\"./cts-action-2.png\": \"./src/scripts/lib/cts-action-2.png\",\n\t\"./cts-dropdown.png\": \"./src/scripts/lib/cts-dropdown.png\",\n\t\"./cts-splash.png\": \"./src/scripts/lib/cts-splash.png\",\n\t\"./dysphoria-10.jpg\": \"./src/scripts/lib/dysphoria-10.jpg\",\n\t\"./dysphoria-11.jpg\": \"./src/scripts/lib/dysphoria-11.jpg\",\n\t\"./dysphoria-2.jpg\": \"./src/scripts/lib/dysphoria-2.jpg\",\n\t\"./dysphoria-3.jpg\": \"./src/scripts/lib/dysphoria-3.jpg\",\n\t\"./dysphoria-4.jpg\": \"./src/scripts/lib/dysphoria-4.jpg\",\n\t\"./dysphoria-5.jpg\": \"./src/scripts/lib/dysphoria-5.jpg\",\n\t\"./dysphoria-6.jpg\": \"./src/scripts/lib/dysphoria-6.jpg\",\n\t\"./dysphoria-7.jpg\": \"./src/scripts/lib/dysphoria-7.jpg\",\n\t\"./dysphoria-8.jpg\": \"./src/scripts/lib/dysphoria-8.jpg\",\n\t\"./dysphoria-9.jpg\": \"./src/scripts/lib/dysphoria-9.jpg\",\n\t\"./dysphoria-cover.jpg\": \"./src/scripts/lib/dysphoria-cover.jpg\",\n\t\"./dysphoria-moodboard.jpg\": \"./src/scripts/lib/dysphoria-moodboard.jpg\",\n\t\"./impressions-art.jpg\": \"./src/scripts/lib/impressions-art.jpg\",\n\t\"./obg-action-1.png\": \"./src/scripts/lib/obg-action-1.png\",\n\t\"./obg-action-2.png\": \"./src/scripts/lib/obg-action-2.png\",\n\t\"./obg-main.png\": \"./src/scripts/lib/obg-main.png\",\n\t\"./obg-splash.png\": \"./src/scripts/lib/obg-splash.png\",\n\t\"./release-1.jpg\": \"./src/scripts/lib/release-1.jpg\",\n\t\"./release-2.jpg\": \"./src/scripts/lib/release-2.jpg\",\n\t\"./release-3.jpeg\": \"./src/scripts/lib/release-3.jpeg\",\n\t\"./release-4.png\": \"./src/scripts/lib/release-4.png\",\n\t\"./release-5.png\": \"./src/scripts/lib/release-5.png\",\n\t\"./release-6.png\": \"./src/scripts/lib/release-6.png\",\n\t\"./son-1.png\": \"./src/scripts/lib/son-1.png\",\n\t\"./son-2.jpg\": \"./src/scripts/lib/son-2.jpg\",\n\t\"./son-3.jpg\": \"./src/scripts/lib/son-3.jpg\",\n\t\"./son-4.jpg\": \"./src/scripts/lib/son-4.jpg\"\n};\n\n\nfunction webpackContext(req) {\n\tvar id = webpackContextResolve(req);\n\treturn __webpack_require__(id);\n}\nfunction webpackContextResolve(req) {\n\tif(!__webpack_require__.o(map, req)) {\n\t\tvar e = new Error(\"Cannot find module '\" + req + \"'\");\n\t\te.code = 'MODULE_NOT_FOUND';\n\t\tthrow e;\n\t}\n\treturn map[req];\n}\nwebpackContext.keys = function webpackContextKeys() {\n\treturn Object.keys(map);\n};\nwebpackContext.resolve = webpackContextResolve;\nmodule.exports = webpackContext;\nwebpackContext.id = \"./src/scripts/lib sync \\\\.(png%7Cjpe?g%7Csvg%7Cgif)$\";\n\n//# sourceURL=webpack://portfolio-2023/./src/scripts/lib/_sync_nonrecursive_\\.(png%257Cjpe?");
 
 /***/ }),
 
@@ -456,6 +456,116 @@ eval("module.exports = __webpack_require__.p + \"8a6f3ca369084282fc5f.png\";\n\n
 
 "use strict";
 eval("module.exports = __webpack_require__.p + \"14e0739fb9b9f7e13550.png\";\n\n//# sourceURL=webpack://portfolio-2023/./src/scripts/lib/obg-splash.png?");
+
+/***/ }),
+
+/***/ "./src/scripts/lib/release-1.jpg":
+/*!***************************************!*\
+  !*** ./src/scripts/lib/release-1.jpg ***!
+  \***************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"21e53e19c838f9aada9c.jpg\";\n\n//# sourceURL=webpack://portfolio-2023/./src/scripts/lib/release-1.jpg?");
+
+/***/ }),
+
+/***/ "./src/scripts/lib/release-2.jpg":
+/*!***************************************!*\
+  !*** ./src/scripts/lib/release-2.jpg ***!
+  \***************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"e65e7a886e06a60096c9.jpg\";\n\n//# sourceURL=webpack://portfolio-2023/./src/scripts/lib/release-2.jpg?");
+
+/***/ }),
+
+/***/ "./src/scripts/lib/release-3.jpeg":
+/*!****************************************!*\
+  !*** ./src/scripts/lib/release-3.jpeg ***!
+  \****************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"d4f738d873c53fdd3d29.jpeg\";\n\n//# sourceURL=webpack://portfolio-2023/./src/scripts/lib/release-3.jpeg?");
+
+/***/ }),
+
+/***/ "./src/scripts/lib/release-4.png":
+/*!***************************************!*\
+  !*** ./src/scripts/lib/release-4.png ***!
+  \***************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"8b3960cf5e89451a5dd3.png\";\n\n//# sourceURL=webpack://portfolio-2023/./src/scripts/lib/release-4.png?");
+
+/***/ }),
+
+/***/ "./src/scripts/lib/release-5.png":
+/*!***************************************!*\
+  !*** ./src/scripts/lib/release-5.png ***!
+  \***************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"acba2f6c93af1ef12253.png\";\n\n//# sourceURL=webpack://portfolio-2023/./src/scripts/lib/release-5.png?");
+
+/***/ }),
+
+/***/ "./src/scripts/lib/release-6.png":
+/*!***************************************!*\
+  !*** ./src/scripts/lib/release-6.png ***!
+  \***************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"bc964f624d850102a18e.png\";\n\n//# sourceURL=webpack://portfolio-2023/./src/scripts/lib/release-6.png?");
+
+/***/ }),
+
+/***/ "./src/scripts/lib/son-1.png":
+/*!***********************************!*\
+  !*** ./src/scripts/lib/son-1.png ***!
+  \***********************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"24e5efefed2d175f9362.png\";\n\n//# sourceURL=webpack://portfolio-2023/./src/scripts/lib/son-1.png?");
+
+/***/ }),
+
+/***/ "./src/scripts/lib/son-2.jpg":
+/*!***********************************!*\
+  !*** ./src/scripts/lib/son-2.jpg ***!
+  \***********************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"547047a304998e651fe1.jpg\";\n\n//# sourceURL=webpack://portfolio-2023/./src/scripts/lib/son-2.jpg?");
+
+/***/ }),
+
+/***/ "./src/scripts/lib/son-3.jpg":
+/*!***********************************!*\
+  !*** ./src/scripts/lib/son-3.jpg ***!
+  \***********************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"606f3e28547093916a5e.jpg\";\n\n//# sourceURL=webpack://portfolio-2023/./src/scripts/lib/son-3.jpg?");
+
+/***/ }),
+
+/***/ "./src/scripts/lib/son-4.jpg":
+/*!***********************************!*\
+  !*** ./src/scripts/lib/son-4.jpg ***!
+  \***********************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"ed1487d2df5a9381d5e6.jpg\";\n\n//# sourceURL=webpack://portfolio-2023/./src/scripts/lib/son-4.jpg?");
 
 /***/ }),
 

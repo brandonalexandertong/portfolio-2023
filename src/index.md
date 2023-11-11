@@ -80,6 +80,43 @@ layout: layouts/base.njk
     </div>
 </section>
 
+<section  id="sound-of-network">
+    <div class="segment">
+        <div class="brick son-cover shadow-fix">
+            <img src="assets/images/son-1.png" class="module ">
+            <p class="son-blurb text">this is a networked performance piece he created with Halim Lee using web sockets.
+            </p>
+        </div>
+    </div>
+    <div class="segment">
+        <div class="brick son-2 shadow-fix">
+            <img src="assets/images/son-2.jpg" class="module ">
+            <p class="son-2-blurb text">each audience member chose a different instrument to play on their phones or in browser
+            </p>
+        </div>
+    </div>
+    <div class="segment">
+        <div class="brick son-3 shadow-fix">
+            <img src="assets/images/son-3.jpg" class="module ">
+            <p class="son-3-blurb text">they were asked to play along to a score we developed to accompany our performance, or could opt to play what they wanted
+            </p>
+        </div>
+    </div>
+    <div class="segment">
+        <div class="brick son-4 shadow-fix">
+            <img src="assets/images/son-4.jpg" class="module ">
+            <p class="son-4-blurb text">Halim whistled, while he controlled noise with guitar
+            </p>
+        </div>
+    </div>
+    <div class="son-recap brick shadow-fix video-wrap">
+        <div class='video-container'>
+             <iframe src="https://www.youtube.com/embed/086onEYausw?si=0Rug1EQ_YxpMXhkc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+    </div>
+
+</section>
+
 <section id="cts" class="margin-section">
     <div class="segment">
         <div class="brick cts-splash">
@@ -149,41 +186,47 @@ layout: layouts/base.njk
 <section id="couch-prints" class="margin-section">
     <div class="segment">
         <div class="brick tell-u shadow-fix">
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/nfs-N_DySFw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-            <p class="tell-u-blurb text">here are some samples of music and design he has created for electronic duo <a href="https://open.spotify.com/artist/19kbFuDgyFDHHOjKPaNTNi?si=azr4gHOiR3GG_i-rwN8mxg">Couch Prints</a>
+            <img src="assets/images/release-1.jpg" class="module">
+            <p class="tell-u-blurb text">here is design and promotional material from his music project, <a href="https://open.spotify.com/artist/19kbFuDgyFDHHOjKPaNTNi?si=azr4gHOiR3GG_i-rwN8mxg">Couch Prints'</a> album release show
             </p>
         </div>
     </div>
     <div class="segment">
         <div class="brick sxsw-cover shadow-fix">
-            <img src="assets/images/SXSW-2023.jpg" class="module">
-            <p class="sxsw-recap-blurb text">with this group he has toured the US and played multiple festivals including South By Southwest
+            <img src="assets/images/release-2.jpg" class="module">
+            <p class="sxsw-recap-blurb text">the event hosted musicians, djs, and art vendors in a Ridgewood church
             </p>
         </div>
     </div>
     <div class="segment">
-        <div class="brick impressions shadow-fix">
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/7FTovNJdQSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-            <p class="impressions-blurb text">he has worked to create a world that is cohesive visually and sonically, major themes being melancholy, late capitalism, and American malaise
+        <div class="brick release-3 shadow-fix">
+            <img src="assets/images/release-3.jpeg" class="module">
+            <p class="release-3-blurb text">to promote the event he designed and wheatpasted a tripytych of event fliers around New York
             </p>
         </div>
     </div>
-    <div class="segment"> 
-        <div class="brick weakness-cover shadow-fix">
-            <img src="assets/images/WEAKNESS-ART-03.jpg" class="module">
-            <p class="weakness-blurb text">this is the cover artwork for their most recent single "Weakness"
-            </p>
-        </div>  
-    </div>
     <div class="segment">
-        <div class="brick weakness-gif shadow-fix">
-            <img class="module" src="assets/images/TT_1.gif"></img>
-            <p class="impressions-blurb text">additional promotional materials, including this music video, adhered to the aesthetic language determined prior. some common themes throughout were monochrome, blurred-motion, and the sky
+        <div class="brick release-6  shadow-fix">
+            <img class="module" src="assets/images/release-6.png"></img>
+            <p class="release-6-blurb text">he utilized reverse projection and silhouette to create a stage design that matched previous promotional materials
             </p>
         </div>
     </div> 
-    <div class="sxsw-recap brick shadow-fix">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/hRVFD8D1XU8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <div class="segment">
+        <div class="brick release-5 shadow-fix">
+            <img class="module" src="assets/images/release-5.png"></img>
+        </div>
+    </div> 
+    <div class="segment"> 
+        <div class="brick release-4 shadow-fix">
+            <img src="assets/images/release-4.png" class="module">
+            <p class="weakness-blurb text">a custom tee shirt was made for the event in collaboration with Oracle Art Bazaar
+            </p>
+        </div>  
     </div>
-
+    <div class="release-recap brick shadow-fix video-wrap">
+        <div class='video-container'>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/4cDxRCF9l2M?si=LU0cEk9YG7rROOob" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>   
+    </div>
 </section>
