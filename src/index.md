@@ -24,7 +24,7 @@ layout: layouts/base.njk
 <section>
     <div class="about">
         <p>
-            brandon lives in New York & he is from Lakewood, Colorado / he is obsessed with nostalgia & he misses the suburbs in the abstract / he has had a good life & sometimes he fears that his luck will run out / if he had to choose he's mostly a musician but he wants to do everything all at once & hence the nostalgia
+            brandon lives in New York & he is from Lakewood, Colorado / he is obsessed with nostalgia & he misses the suburbs in the abstract / he has had a good life & sometimes he fears that his luck will run out 
         </p>
     </div>
     <div class="about-2">
